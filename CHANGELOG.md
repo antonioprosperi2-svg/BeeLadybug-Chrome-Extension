@@ -11,6 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/antonioprosperi2-svg/BeeLadybug-Chrome-Extension)](https://github.com/antonioprosperi2-svg/BeeLadybug-Chrome-Extension/releases)
 [![npm engine](https://img.shields.io/npm/v/bee-ladybug?label=engine%20on%20npm&color=red)](https://www.npmjs.com/package/bee-ladybug)
+[![View sample report](https://img.shields.io/badge/View%20sample%20report-HTML-ff3b5c?style=flat)](https://beeenginejs.com/wp-content/uploads/2026/11/report-20261122-1736.html)
 # Changelog
 
 All notable changes to BeeLadybug are documented in this file.

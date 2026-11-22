@@ -15,6 +15,7 @@ Inspect layout and CSS problems on the page you are looking at, then download an
 [![Vanilla JS](https://img.shields.io/badge/vanilla-JavaScript-f7df1e?logo=javascript&logoColor=black)](#)
 [![No frameworks](https://img.shields.io/badge/frameworks-none-brightgreen)](#)
 [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/hoeblomajmbdbgkklcggiiolhigfkpak?color=green)](https://chromewebstore.google.com/detail/beeladybug/hoeblomajmbdbgkklcggiiolhigfkpak)
+[![View sample report](https://img.shields.io/badge/View%20sample%20report-HTML-ff3b5c?style=flat)](https://beeenginejs.com/wp-content/uploads/2026/11/report-20261122-1736.html)
 ## What it finds
 
 Open the HUD on a normal page and BeeLadybug starts two inspectors: CSS and DOM. A page that contains a `<canvas>` starts the canvas inspector instead, and leaves CSS and DOM off until you turn them on.
