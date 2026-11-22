@@ -9,7 +9,7 @@
 [![Vanilla JS](https://img.shields.io/badge/vanilla-JavaScript-f7df1e?logo=javascript&logoColor=black)](#)
 [![No frameworks](https://img.shields.io/badge/frameworks-none-brightgreen)](#)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/antonioprosperi2-svg/BeeLadybug-Chrome-Extension)](https://github.com/antonioprosperi2-svg/BeeLadybug-Chrome-Extension)
+[![GitHub release](https://img.shields.io/github/v/release/antonioprosperi2-svg/BeeLadybug-Chrome-Extension)](https://github.com/antonioprosperi2-svg/BeeLadybug-Chrome-Extension/releases)
 [![npm engine](https://img.shields.io/npm/v/bee-ladybug?label=engine%20on%20npm&color=red)](https://www.npmjs.com/package/bee-ladybug)
 # Changelog
 
