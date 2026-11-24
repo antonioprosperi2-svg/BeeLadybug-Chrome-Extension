@@ -1,4 +1,4 @@
-![Bug](https://beeenginejs.com/wp-content/uploads/2026/11/promo1400x560.png)
+![bug](promo-440x280-dark.png)
 
 ![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?logo=googlechrome)
 

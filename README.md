@@ -1,5 +1,4 @@
-![Bug](https://beeenginejs.com/wp-content/uploads/2026/11/promo1400x560.png)
-
+![bug](promo-1400x560-dark.png)
 
 # BeeLadybug
 
