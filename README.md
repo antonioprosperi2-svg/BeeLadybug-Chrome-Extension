@@ -6,7 +6,7 @@ Inspect layout and CSS problems on the page you are looking at, then download an
 
 [Install from the Chrome Web Store](https://chromewebstore.google.com/detail/beeladybug/hoeblomajmbdbgkklcggiiolhigfkpak)
 
-
+[![Changelog](https://img.shields.io/badge/changelog-v1.0.5-blue)](https://github.com/antonioprosperi2-svg/BeeLadybug-Chrome-Extension/blob/main/CHANGELOG.md)
 [![Version](https://img.shields.io/badge/version-1.0.5-2ea44f)](manifest.json)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/antonioprosperi2-svg/BeeLadybug-Chrome-Extension)](https://github.com/antonioprosperi2-svg/BeeLadybug-Chrome-Extension/releases)
